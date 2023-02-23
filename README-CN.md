@@ -1,5 +1,5 @@
 # Surge-Function-Module
-## [English](https://github.com/Vinetan/Surge-Function-Module/tree/main/README.md)|中文
+[English](https://github.com/Vinetan/Surge-Function-Module/tree/main/README.md) | 中文
 ## Module List
 |**模块**|**链接**|**Mac**|**iOS**|**简介**|**图片**|
 |:--:|:--:|:--:|:--:|:--:|:--:|
